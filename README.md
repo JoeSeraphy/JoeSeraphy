@@ -29,16 +29,24 @@ React • JavaScript • UI/UX
 
 Landing page responsiva desenvolvida para uma loja multimarcas.
 
-🔗 Demo [Demo](https://bronxmultimarcas-sigma.vercel.app/)
-🔗 Repositório [Repositório](https://github.com/JoeSeraphy/bronx)
+🔗 [Demo](https://bronxmultimarcas-sigma.vercel.app/)
+🔗 [Repositório](https://github.com/JoeSeraphy/bronx)
 
 ### SpaceY
 TypeScript • Frontend
 
-Descrição curta do projeto.
+Estudo de uma landing page, projeto feito em react, vite e Style-component.
 
-🔗 Demo  
-🔗 Repositório
+🔗 [Demo](https://page-spacey.vercel.app/)  
+🔗 [Repositório](https://github.com/JoeSeraphy/landing-page-SpaceY)
+
+### Player Music Stranger Things
+HTML • CSS • JavaScript
+
+Um player com as musicas que tocaram na serie.
+
+🔗 [Demo](https://player-muisc.vercel.app/)  
+🔗 [Repositório](https://github.com/JoeSeraphy/playerMuisc)
 
 ## 🎓 Formação
 
