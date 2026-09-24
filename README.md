@@ -29,7 +29,7 @@ React • JavaScript • UI/UX
 
 Landing page responsiva desenvolvida para uma loja multimarcas.
 
-🔗 [Demo](https://bronxmultimarcas-sigma.vercel.app/)
+🔗 [Demo](https://bronxmultimarcas-sigma.vercel.app/)  
 🔗 [Repositório](https://github.com/JoeSeraphy/bronx)
 
 ### SpaceY
