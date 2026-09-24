@@ -1,28 +1,54 @@
-## Olá, Eu sou Joelson Silva e seja Bem-vindo ao meu GitHub
+# Olá, eu sou Joelson Silva 👋
 
+### Desenvolvedor Web em formação | Estudante de ADS
 
+Sou estudante de Análise e Desenvolvimento de Sistemas,
+atualmente direcionando minha carreira para desenvolvimento
+de software.
 
-<div align="center">
-  <a href="https://github.com/joeseraphy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joeseraphy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeseraphy&layout=compact&langs_count=7&theme=radical"/>
-</div>
+Tenho experiência profissional em suporte técnico e infraestrutura
+e venho aplicando esse conhecimento na criação de aplicações
+e interfaces web.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="joe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="joe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="joe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+## 🚀 Tecnologias
 
-##
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Go
+- HTML5
+- CSS3
+- Git
+- Docker
 
-<div> 
-  <a href="https://www.facebook.com/joelson.santos.925" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/joe.lson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joelson-silva-89b117119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joelsonl.s@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/joeseraphy/joeseraphy/blob/output/github-contribution-grid-snake.svg)
-</div>
+## 💻 Projetos
+
+### Landing Page — Loja Multimarcas
+React • JavaScript • UI/UX
+
+Landing page responsiva desenvolvida para uma loja multimarcas.
+
+🔗 Demo  
+🔗 Repositório
+
+### SpaceY
+TypeScript • Frontend
+
+Descrição curta do projeto.
+
+🔗 Demo  
+🔗 Repositório
+
+## 🎓 Formação
+
+Análise e Desenvolvimento de Sistemas — IBMR
+4º período
+
+## 📫 Contato
+
+Portfólio:
+https://joelson-portfollio.vercel.app/
+
+LinkedIn:
+https://www.linkedin.com/in/joelson-silva-dev## Olá, Eu sou Joelson Silva e seja Bem-vindo ao meu GitHub
