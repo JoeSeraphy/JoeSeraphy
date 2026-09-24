@@ -51,4 +51,4 @@ Portfólio:
 https://joelson-portfollio.vercel.app/
 
 LinkedIn:
-https://www.linkedin.com/in/joelson-silva-dev## Olá, Eu sou Joelson Silva e seja Bem-vindo ao meu GitHub
+https://www.linkedin.com/in/joelson-silva-dev
