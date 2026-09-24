@@ -1,6 +1,6 @@
 # Olá, eu sou Joelson Silva 👋
 
-### Desenvolvedor Web em formação | Estudante de ADS
+### Desenvolvedor em formação | Estudante de ADS
 
 Sou estudante de Análise e Desenvolvimento de Sistemas,
 atualmente direcionando minha carreira para desenvolvimento
@@ -29,8 +29,8 @@ React • JavaScript • UI/UX
 
 Landing page responsiva desenvolvida para uma loja multimarcas.
 
-🔗 Demo  
-🔗 Repositório
+🔗 Demo [Demo](https://bronxmultimarcas-sigma.vercel.app/)
+🔗 Repositório [Repositório](https://github.com/JoeSeraphy/bronx)
 
 ### SpaceY
 TypeScript • Frontend
